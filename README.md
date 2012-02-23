@@ -3,7 +3,10 @@ Universal Subtitle Now Add-on
 
 This is the universal-subtitle-now add-on.
 
-The proposal of this Firefox Addon is to make people use more the Universal Subtitle and increase the number of people that are helping the Universal Subtitle Project.
+The proposal of this [Firefox Addon] is to make people use more the [Universal Subtitle] and increase the number of people that are helping the Universal Subtitle Project.
+
+[firefox addon]: http://en.wikipedia.org/wiki/Add-on_%28Mozilla%29
+[universal subtitle]: http://www.universalsubtitles.org/
 
 Expectations:
 
